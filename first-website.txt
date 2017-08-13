@@ -1,0 +1,70 @@
+WEBSITE 1.1 - Intro to video for a making website
+WEBSITE 1.2 - Creating a new folder on the desktop
+WEBSITE 1.3 - Side note on organization
+WEBSITE 1.4 - Creating folders to separate out code projects
+WEBSITE 1.5 - Creating a template for coding projects
+WEBSITE 1.6 - Test to make sure it works
+WEBSITE 1.7 - Outro to video for a making website
+
+
+
+WEBSITE 1.1 - Intro to video for google chrome
+Chris from Codify Academy here.
+
+In this video i'm going to show you how to create project folders and files that we'll need when creating websites.
+
+
+
+WEBSITE 1.2 - Creating a new folder on the desktop
+We can right click on the desktop go to new and click folder, to create a new folder,
+there is also a short cut we can use (Control+Shift+N at the same time will create a new folder), we will use this to save time.
+Go ahead and try that shortcut control+shit+n and name the new folder Codify.
+
+
+
+WEBSITE 1.3 - Side note on organization
+Quick side note, if your desktop is cluttered up like in this picture,
+go ahead and spend some time after this video organizing it.
+I would try to limit yourself to 5 items on your desktop and that includes your newly created codify folder.
+
+
+
+WEBSITE 1.4 - Creating folders to separate out code projects
+we're going to create some weekly project folders so for the 1st one name it week01. Then use control+shift+n for a new folder week02 and 3 and 4.
+so when you finish typing out week four,
+control+a to highlight all the text, copy it with control+c
+then create a new folder with control+shift+n and paste with control+v then update the number to 5
+and again control+shift+n for a new folder control+v to paste and update the number to 6
+and keep going till you have 16. so use our naming conventions here.
+
+
+
+WEBSITE 1.5 - Creating a template for coding projects
+we need one more folder called template
+when the time comes we'll be able to make a copy of this template, paste it in the correct organization folder, rename it and get to coding.
+
+but for now create a new folder and name it template
+double click it to go inside. and create a css folder and an img folder there.
+
+next open up atom, go to "file" and select "add project folder".  Choose the "codify" folder from your desktop and click open.
+We now have access to all the folders we just made now, this will make it easier to confirm you're working on the correct file in the future.
+left click the template folder to reveal its contents.
+Right click and select "new file" we need to name this index.html and press enter
+
+in the .html file, type out the word html and hit tab, this will populate the basic HTML tags needed for a webpage.
+
+right click on the css folder and create a new file called main.css
+we can drag this new file to the right side of the screen and it will spilt it up half and half so we can see both HTML and CSS at the same time.
+
+next type link and hit tab, this creates a link tag, we need to connect the main.css file to the index.html file.
+
+Last in HTML we are going to update the "href" so it points to the correct file location of the css file. Navigating from the index file we need to tell the browser to look inside a css folder and then find a file called main.css So we'll type css for the folder name, a forward slash to go inside and main.css for the file name.  Make sure to save it, this circle will not be visible once saved.
+
+
+WEBSITE 1.6 - Test to make sure it works
+Go to the main.css file and add body, then curly brackets press enter and add background-color colon tomato; and press control+s to save.
+Click back into the index.html page and at the bottom click this file path, once it's copied to your clipboard open up google and paste the url in.
+the background of the page should be tomato colored;
+
+WEBSITE 1.7 - Outro to video for a making website
+Thanks for watching, next we'll finally learn to write some code!
